@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### My name is Seungwoo Kim,
+#### I interested in Backend engineering and AI.
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
